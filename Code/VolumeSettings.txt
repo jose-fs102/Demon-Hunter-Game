@@ -1,0 +1,3 @@
+[VOLUME] // Increments of 10 ONLY! or Default to 100
+MasterVolume=100
+SoundFXVolume=100
